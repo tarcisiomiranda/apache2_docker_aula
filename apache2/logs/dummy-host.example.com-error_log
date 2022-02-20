@@ -1,0 +1,80 @@
+[Sun Feb 20 21:29:19.576378 2022] [authz_core:error] [pid 408:tid 140065554602808] [client 192.168.29.12:34582] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:29:20.498461 2022] [authz_core:error] [pid 408:tid 140065554459448] [client 192.168.29.12:34582] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:29:20.902408 2022] [authz_core:error] [pid 408:tid 140065554316088] [client 192.168.29.12:34582] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:29:21.092831 2022] [authz_core:error] [pid 408:tid 140065554172728] [client 192.168.29.12:34582] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:29:30.787929 2022] [authz_core:error] [pid 408:tid 140065553754936] [client 192.168.29.12:34584] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:29:32.706685 2022] [authz_core:error] [pid 408:tid 140065553611576] [client 192.168.29.12:34584] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:29:32.842829 2022] [authz_core:error] [pid 408:tid 140065553468216] [client 192.168.29.12:34584] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:29:51.864181 2022] [authz_core:error] [pid 352:tid 140065554602808] [client 192.168.29.12:34586] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:30:53.360455 2022] [authz_core:error] [pid 408:tid 140065553181496] [client 192.168.29.12:34590] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:33:07.004317 2022] [authz_core:error] [pid 484:tid 140065554602808] [client 192.168.29.12:34594] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:33:07.598547 2022] [authz_core:error] [pid 484:tid 140065554459448] [client 192.168.29.12:34594] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:33:07.836309 2022] [authz_core:error] [pid 484:tid 140065554316088] [client 192.168.29.12:34594] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:33:07.975986 2022] [authz_core:error] [pid 484:tid 140065554172728] [client 192.168.29.12:34594] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:33:08.161334 2022] [authz_core:error] [pid 484:tid 140065554029368] [client 192.168.29.12:34594] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:33:08.374634 2022] [authz_core:error] [pid 484:tid 140065553754936] [client 192.168.29.12:34594] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:33:08.559723 2022] [authz_core:error] [pid 484:tid 140065553611576] [client 192.168.29.12:34594] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:33:08.757004 2022] [authz_core:error] [pid 484:tid 140065553468216] [client 192.168.29.12:34594] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:33:58.106684 2022] [authz_core:error] [pid 480:tid 140065554602808] [client 192.168.29.12:34598] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:33:58.873077 2022] [authz_core:error] [pid 568:tid 140065554602808] [client 192.168.29.12:34600] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:33:59.074398 2022] [authz_core:error] [pid 568:tid 140065554316088] [client 192.168.29.12:34600] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:33:59.246530 2022] [authz_core:error] [pid 568:tid 140065554172728] [client 192.168.29.12:34600] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:34:00.593508 2022] [authz_core:error] [pid 568:tid 140065554029368] [client 192.168.29.12:34600] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:34:01.585334 2022] [authz_core:error] [pid 568:tid 140065553754936] [client 192.168.29.12:34600] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:34:01.766706 2022] [authz_core:error] [pid 568:tid 140065553611576] [client 192.168.29.12:34600] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:34:01.935179 2022] [authz_core:error] [pid 568:tid 140065553468216] [client 192.168.29.12:34600] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:34:02.095310 2022] [authz_core:error] [pid 568:tid 140065553324856] [client 192.168.29.12:34600] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:34:33.459975 2022] [authz_core:error] [pid 623:tid 140065554602808] [client 192.168.29.12:34602] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:34:34.107478 2022] [authz_core:error] [pid 656:tid 140065554602808] [client 192.168.29.12:34604] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:34:34.288526 2022] [authz_core:error] [pid 656:tid 140065554172728] [client 192.168.29.12:34604] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:34:34.432045 2022] [authz_core:error] [pid 656:tid 140065554029368] [client 192.168.29.12:34604] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:37:07.546030 2022] [authz_core:error] [pid 830:tid 140065554602808] [client 192.168.29.12:34612] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:37:08.196596 2022] [authz_core:error] [pid 830:tid 140065554459448] [client 192.168.29.12:34612] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:37:08.377802 2022] [authz_core:error] [pid 830:tid 140065554029368] [client 192.168.29.12:34612] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:37:08.549283 2022] [authz_core:error] [pid 830:tid 140065553468216] [client 192.168.29.12:34612] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:38:39.764685 2022] [authz_core:error] [pid 919:tid 140065554602808] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:38:40.528513 2022] [authz_core:error] [pid 919:tid 140065554459448] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:38:40.725534 2022] [authz_core:error] [pid 919:tid 140065554316088] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:38:40.909077 2022] [authz_core:error] [pid 919:tid 140065553754936] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:38:41.109976 2022] [authz_core:error] [pid 919:tid 140065553611576] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:38:41.234814 2022] [authz_core:error] [pid 919:tid 140065553468216] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:38:41.410073 2022] [authz_core:error] [pid 919:tid 140065553324856] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:38:41.590981 2022] [authz_core:error] [pid 919:tid 140065553181496] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:38:41.748362 2022] [authz_core:error] [pid 919:tid 140065553038136] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:38:41.910129 2022] [authz_core:error] [pid 919:tid 140065552894776] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:38:46.563149 2022] [authz_core:error] [pid 919:tid 140065552751416] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:38:48.798041 2022] [authz_core:error] [pid 919:tid 140065552608056] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:38:48.972378 2022] [authz_core:error] [pid 919:tid 140065552464696] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:38:49.131231 2022] [authz_core:error] [pid 919:tid 140065552321336] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:38:50.174137 2022] [authz_core:error] [pid 919:tid 140065552177976] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:38:50.332483 2022] [authz_core:error] [pid 919:tid 140065552034616] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:38:50.496350 2022] [authz_core:error] [pid 919:tid 140065551891256] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:38:50.671170 2022] [authz_core:error] [pid 919:tid 140065551616824] [client 192.168.29.12:34616] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:38:50.671307 2022] [authz_core:error] [pid 921:tid 140065554602808] [client 192.168.29.12:34618] AH01630: client denied by server configuration: /var/www/html/pjbruno/favicon.ico, referer: http://bruno.labtester.online:8080/index.html
+[Sun Feb 20 21:38:50.881294 2022] [authz_core:error] [pid 921:tid 140065554459448] [client 192.168.29.12:34618] AH01630: client denied by server configuration: /var/www/html/pjbruno/favicon.ico, referer: http://bruno.labtester.online:8080/index.html
+[Sun Feb 20 21:38:52.365350 2022] [authz_core:error] [pid 921:tid 140065554316088] [client 192.168.29.12:34618] AH01630: client denied by server configuration: /var/www/html/pjbruno/index.html
+[Sun Feb 20 21:38:52.552875 2022] [authz_core:error] [pid 921:tid 140065554172728] [client 192.168.29.12:34618] AH01630: client denied by server configuration: /var/www/html/pjbruno/favicon.ico, referer: http://bruno.labtester.online:8080/index.html
+[Sun Feb 20 21:38:55.496507 2022] [authz_core:error] [pid 921:tid 140065554029368] [client 192.168.29.12:34618] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:38:55.678761 2022] [authz_core:error] [pid 921:tid 140065553754936] [client 192.168.29.12:34618] AH01630: client denied by server configuration: /var/www/html/pjbruno/favicon.ico, referer: http://bruno.labtester.online:8080/
+[Sun Feb 20 21:39:19.843071 2022] [authz_core:error] [pid 1006:tid 140065554316088] [client 192.168.29.12:34620] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:39:20.508132 2022] [authz_core:error] [pid 1006:tid 140065554172728] [client 192.168.29.12:34620] AH01630: client denied by server configuration: /var/www/html/pjbruno/favicon.ico, referer: http://bruno.labtester.online:8080/
+[Sun Feb 20 21:39:20.894613 2022] [authz_core:error] [pid 1006:tid 140065553324856] [client 192.168.29.12:34620] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:39:21.078508 2022] [authz_core:error] [pid 1006:tid 140065552751416] [client 192.168.29.12:34620] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:39:21.292226 2022] [authz_core:error] [pid 1006:tid 140065552608056] [client 192.168.29.12:34620] AH01630: client denied by server configuration: /var/www/html/pjbruno/favicon.ico, referer: http://bruno.labtester.online:8080/
+[Sun Feb 20 21:39:29.531847 2022] [authz_core:error] [pid 1007:tid 140065554602808] [client 192.168.29.12:34622] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:39:29.703657 2022] [authz_core:error] [pid 1007:tid 140065554459448] [client 192.168.29.12:34622] AH01630: client denied by server configuration: /var/www/html/pjbruno/favicon.ico, referer: http://bruno.labtester.online:8080/
+[Sun Feb 20 21:39:30.161820 2022] [authz_core:error] [pid 1007:tid 140065554172728] [client 192.168.29.12:34622] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:39:30.329074 2022] [authz_core:error] [pid 1007:tid 140065554029368] [client 192.168.29.12:34622] AH01630: client denied by server configuration: /var/www/html/pjbruno/favicon.ico, referer: http://bruno.labtester.online:8080/
+[Sun Feb 20 21:39:30.386616 2022] [authz_core:error] [pid 1007:tid 140065553754936] [client 192.168.29.12:34622] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:39:30.538170 2022] [authz_core:error] [pid 1007:tid 140065553611576] [client 192.168.29.12:34622] AH01630: client denied by server configuration: /var/www/html/pjbruno/favicon.ico, referer: http://bruno.labtester.online:8080/
+[Sun Feb 20 21:39:30.799820 2022] [authz_core:error] [pid 1007:tid 140065553324856] [client 192.168.29.12:34622] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:39:31.009742 2022] [authz_core:error] [pid 1007:tid 140065553181496] [client 192.168.29.12:34622] AH01630: client denied by server configuration: /var/www/html/pjbruno/favicon.ico, referer: http://bruno.labtester.online:8080/
+[Sun Feb 20 21:39:31.369629 2022] [authz_core:error] [pid 1007:tid 140065553038136] [client 192.168.29.12:34622] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:39:31.545784 2022] [authz_core:error] [pid 1007:tid 140065552751416] [client 192.168.29.12:34622] AH01630: client denied by server configuration: /var/www/html/pjbruno/favicon.ico, referer: http://bruno.labtester.online:8080/
+[Sun Feb 20 21:39:31.556347 2022] [authz_core:error] [pid 1007:tid 140065552177976] [client 192.168.29.12:34622] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:39:31.727089 2022] [authz_core:error] [pid 1007:tid 140065552034616] [client 192.168.29.12:34622] AH01630: client denied by server configuration: /var/www/html/pjbruno/favicon.ico, referer: http://bruno.labtester.online:8080/
+[Sun Feb 20 21:46:02.303357 2022] [authz_core:error] [pid 1216:tid 140065554602808] [client 192.168.29.12:34632] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:46:04.975969 2022] [authz_core:error] [pid 1216:tid 140065554459448] [client 192.168.29.12:34632] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:46:05.981075 2022] [authz_core:error] [pid 1216:tid 140065554316088] [client 192.168.29.12:34632] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:46:06.462423 2022] [authz_core:error] [pid 1216:tid 140065554172728] [client 192.168.29.12:34632] AH01630: client denied by server configuration: /var/www/html/pjbruno/
+[Sun Feb 20 21:46:06.766105 2022] [authz_core:error] [pid 1216:tid 140065554029368] [client 192.168.29.12:34632] AH01630: client denied by server configuration: /var/www/html/pjbruno/
