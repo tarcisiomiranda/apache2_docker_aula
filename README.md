@@ -19,5 +19,5 @@ httpd:alpine3.15
 
 ## Limptar os espaço dos arquivos de config
 ```
-cat /etc/zabbix/zabbix_server.conf | egrep -v '(#|//|^[[:space:]]*$)'
+cat /etc/apache2/conf/httpd.conf | egrep -v '(#|//|^[[:space:]]*$)'
 ```
